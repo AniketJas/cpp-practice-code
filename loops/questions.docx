@@ -1,0 +1,98 @@
+1. Write a program in C++ to find the first 10 natural numbers.
+Sample output:
+The natural numbers are:
+1 2 3 4 5 6 7 8 9 10
+
+2. Write a program in C++ to find the sum of the first 10 natural numbers.
+Sample Output:
+Find the first 10 natural numbers:
+---------------------------------------
+The natural numbers are:
+1 2 3 4 5 6 7 8 9 10
+The sum of first 10 natural numbers: 55
+
+3. Write a program in C++ to display n terms of natural numbers and their sum.
+Sample Output:
+Input a number of terms: 7
+The natural numbers upto 7th terms are:
+1 2 3 4 5 6 7
+The sum of the natural numbers is: 28
+
+4. Write a program in C++ to find the perfect numbers between 1 and 500.
+The perfect numbers between 1 to 500 are:
+6
+28
+496
+
+5. Write a program in C++ to check whether a number is prime or not.
+Sample Output:
+Input a number to check prime or not: 13
+The entered number is a prime number.
+
+6. Write a program in C++ to find a prime number within a range.
+Input number for starting range: 1
+Input number for ending range: 100
+The prime numbers between 1 and 100 are:
+2 3 5 7 11 13 17 19 23 29 31 37 41 43 47 53 59 61 67 71 73 79 83 89 97
+The total number of prime numbers between 1 to 100 is: 25
+
+7. Write a program in C++ to find the factorial of a number.
+Sample output:
+Input a number to find the factorial: 5
+The factorial of the given number is: 120
+
+8. Write a program in C++ to find the last prime number that occurs before the entered number.
+Sample Output:
+Input a number to find the last prime number occurs before the number: 50
+47 is the last prime number before 50
+
+9. Write a program in C++ to find the Greatest Common Divisor (GCD) of two numbers.
+Sample Output:
+Input the first number: 25
+Input the second number: 15
+The Greatest Common Divisor is: 5
+
+10. Write a program in C++ to find the sum of the digits of a given number.
+Sample Output:
+Input a number: 1234
+The sum of digits of 1234 is: 10
+
+11. Write a program in C++ to find the sum of the series 1 + 1/2^2 + 1/3^3 + ..+ 1/n^n.
+Sample Output:
+Input the value for nth term: 5
+1/1^1 = 1
+1/2^2 = 0.25
+1/3^3 = 0.037037
+1/4^4 = 0.00390625
+1/5^5 = 0.00032
+The sum of the above series is: 1.29126
+
+12. Write a program in C++ to calculate the sum of the series (1*1) + (2*2) + (3*3) + (4*4) + (5*5) + ... + (n*n).
+Sample Output:
+Input the value for nth term: 5
+1*1 = 1
+2*2 = 4
+3*3 = 9
+4*4 = 16
+5*5 = 25
+The sum of the above series is: 55
+
+13. Write a program in C++ to calculate the series (1) + (1+2) + (1+2+3) + (1+2+3+4) + ... + (1+2+3+4+...+n).
+Sample Output:
+Input the value for nth term: 5
+1 = 1
+1+2 = 3
+1+2+3 = 6
+1+2+3+4 = 10
+1+2+3+4+5 = 15
+The sum of the above series is: 35
+
+14. Write a program in C++ to find the sum of series 1 - X^2/2! + X^4/4!-.... upto nth term.
+Sample Output:
+Input the value of X: 3
+Input the value for nth term: 4
+term 1 value is: 1
+term 2 value is: -4.5
+term 3 value is: 3.375
+term 4 value is: -1.0125
+The sum of the above series is: -1.1375

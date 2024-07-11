@@ -1,0 +1,26 @@
+1. Write a program in C++ to print welcome text on a separate line.
+
+2. Write a program in C++ to print the sum of two numbers.
+Sample Output:
+Print the sum of two numbers :
+-----------------------------------
+The sum of 29 and 30 is : 59
+
+3. Write a in C++ program to find the size of fundamental data types.
+Sample Output:
+Find Size of fundamental data types :
+------------------------------------------
+The sizeof(char) is : 1 bytes
+The sizeof(short) is : 2 bytes
+The sizeof(int) is : 4 bytes
+The sizeof(long) is : 8 bytes
+The sizeof(long long) is : 8 bytes
+The sizeof(float) is : 4 bytes
+The sizeof(double) is : 8 bytes
+The sizeof(long double) is : 16 bytes
+The sizeof(bool) is : 1 bytes
+
+4. Write a program in C++ to print the sum of two numbers using variables.
+Print the sum of two numbers :
+-----------------------------------
+The sum of 29 and 30 is : 59
