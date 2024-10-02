@@ -96,3 +96,11 @@ term 2 value is: -4.5
 term 3 value is: 3.375
 term 4 value is: -1.0125
 The sum of the above series is: -1.1375
+
+Write a C++ program that asks the user to enter positive integers in order to process count, maximum, minimum, and average or terminate the process with -1.
+Sample Output:
+Your input is for termination. Here is the result below:
+Number of positive integers is: 4
+The maximum value is: 9
+The minimum value is: 3
+The average is 6.00
